@@ -1,0 +1,17 @@
+img.responsive-img, video.responsive-video {
+    max-width: 100%;
+    height: auto;
+}
+
+.rounded-img {
+    border: 1px solid #;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
